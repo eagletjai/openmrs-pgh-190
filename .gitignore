@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings/*
+*.DS_Store
+*.iml
+.idea
+webapp/target/*
+web/target/*
+tools/target/*
+api/target/*
+.svn
